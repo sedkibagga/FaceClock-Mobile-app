@@ -1,0 +1,7 @@
+[submodule "frontend/expo-camera"]
+    path = frontend/expo-camera
+    url = https://github.com/sedkibagga/FaceClock
+
+[submodule "python code/Face-recognition-python-project"]
+    path = python code/Face-recognition-python-project
+    url = https://github.com/sedkibagga/FaceClock
